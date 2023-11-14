@@ -29,3 +29,65 @@ Travel Guide is a comprehensive solution designed to enhance the experience of t
 **Locate Native**:
 
 - Find essential services from local vendors based on your location.
+
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) installed on your system to use `npm`, which is necessary to install dependencies and run the project.
+
+### Installation
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/Amal070146/Project-Top-100-TravelGuide
+cd TravelGuide
+```
+
+2. Install project dependencies:
+
+```sh
+npm install
+```
+
+3. Start the development server:
+
+```sh
+npm run dev
+```
+
+This will start the application in development mode with hot-reloading enabled.
+
+4. Open your browser and navigate to:
+
+```
+http://localhost:5173/
+```
+
+Now you can use the application from your local machine.
+
+## Deployment
+
+To build the application for production, run the following command:
+
+```sh
+npm run build
+```
+
+This will generate a `dist` folder that you can serve using your preferred hosting solution.
+
+## Contact
+
+Amal C P - [@amalcpaulson](https://twitter.com/amalcpaulson)
+
+
+
+## Acknowledgements
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
